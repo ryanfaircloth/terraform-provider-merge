@@ -5,7 +5,7 @@ go 1.22.0
 toolchain go1.23.3
 
 require (
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.36.0
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.36.1
 	github.com/imdario/mergo v0.3.16
 	github.com/stretchr/testify v1.10.0
 	gopkg.in/yaml.v3 v3.0.1
